@@ -1,0 +1,567 @@
+[
+  {
+    "title": "Bosses",
+    "url": "/shadow-wiki/bosses/",
+    "cat": "boss"
+  },
+  {
+    "title": "Cinder Warden",
+    "url": "/shadow-wiki/bosses/#boss_cinder",
+    "cat": "boss"
+  },
+  {
+    "title": "Dock Tyrant",
+    "url": "/shadow-wiki/bosses/#boss_belt",
+    "cat": "boss"
+  },
+  {
+    "title": "Ember Colossus",
+    "url": "/shadow-wiki/bosses/#boss_rift",
+    "cat": "boss"
+  },
+  {
+    "title": "Graveyard Warden",
+    "url": "/shadow-wiki/bosses/#boss_derelict",
+    "cat": "boss"
+  },
+  {
+    "title": "Hollow Cantor",
+    "url": "/shadow-wiki/bosses/#boss_hollow",
+    "cat": "boss"
+  },
+  {
+    "title": "Maw Devourer",
+    "url": "/shadow-wiki/bosses/#boss_maw",
+    "cat": "boss"
+  },
+  {
+    "title": "Mist Sovereign",
+    "url": "/shadow-wiki/bosses/#boss_nebula",
+    "cat": "boss"
+  },
+  {
+    "title": "Null Herald",
+    "url": "/shadow-wiki/bosses/#boss_nullverge",
+    "cat": "boss"
+  },
+  {
+    "title": "Pale Sovereign",
+    "url": "/shadow-wiki/bosses/#boss_pale",
+    "cat": "boss"
+  },
+  {
+    "title": "Sepulchre Warden",
+    "url": "/shadow-wiki/bosses/#boss_sepulchre",
+    "cat": "boss"
+  },
+  {
+    "title": "The Last Light",
+    "url": "/shadow-wiki/bosses/#boss_lantern",
+    "cat": "boss"
+  },
+  {
+    "title": "The Mourning Crown",
+    "url": "/shadow-wiki/bosses/#boss_cryptthrone",
+    "cat": "boss"
+  },
+  {
+    "title": "The Unmaker",
+    "url": "/shadow-wiki/bosses/#boss_unmaking",
+    "cat": "boss"
+  },
+  {
+    "title": "The Waking Void",
+    "url": "/shadow-wiki/bosses/#boss_umbra",
+    "cat": "boss"
+  },
+  {
+    "title": "Throne Warden",
+    "url": "/shadow-wiki/bosses/#boss_throne",
+    "cat": "boss"
+  },
+  {
+    "title": "Verdigris Colossus",
+    "url": "/shadow-wiki/bosses/#boss_verdigris",
+    "cat": "boss"
+  },
+  {
+    "title": "Wound Keeper",
+    "url": "/shadow-wiki/bosses/#boss_genesis",
+    "cat": "boss"
+  },
+  {
+    "title": "Ash, the Mag-Claw",
+    "url": "/shadow-wiki/crew/sig_ash/",
+    "cat": "crew"
+  },
+  {
+    "title": "Audit, the Whistleblower",
+    "url": "/shadow-wiki/crew/ev_vigil_audit/",
+    "cat": "crew"
+  },
+  {
+    "title": "Bel, the Bulwark",
+    "url": "/shadow-wiki/crew/sig_bel/",
+    "cat": "crew"
+  },
+  {
+    "title": "Bode, the Corpsman",
+    "url": "/shadow-wiki/crew/crew_warden_u2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Brann, the Deckhand",
+    "url": "/shadow-wiki/crew/crew_reaver_c1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Cairn, the Oath-Anvil",
+    "url": "/shadow-wiki/crew/sig_cairn/",
+    "cat": "crew"
+  },
+  {
+    "title": "Calla, the Tinker",
+    "url": "/shadow-wiki/crew/crew_artificer_c2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Caul, the Nullwright",
+    "url": "/shadow-wiki/crew/sig_caul/",
+    "cat": "crew"
+  },
+  {
+    "title": "Coda, the Relic-Tuner",
+    "url": "/shadow-wiki/crew/sig_coda/",
+    "cat": "crew"
+  },
+  {
+    "title": "Crew",
+    "url": "/shadow-wiki/crew/",
+    "cat": "crew"
+  },
+  {
+    "title": "Doss, the Optician",
+    "url": "/shadow-wiki/crew/crew_artificer_u2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Drema, the Cutter",
+    "url": "/shadow-wiki/crew/crew_reaver_u1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Dross, the Boarding-Breaker",
+    "url": "/shadow-wiki/crew/sig_dross/",
+    "cat": "crew"
+  },
+  {
+    "title": "Eidra, the Last Parallax",
+    "url": "/shadow-wiki/crew/sig_eidra/",
+    "cat": "crew"
+  },
+  {
+    "title": "Emberwake, the Ash-Sovereign",
+    "url": "/shadow-wiki/crew/ev_cinder_emberwake/",
+    "cat": "crew"
+  },
+  {
+    "title": "Fen, the Scanner",
+    "url": "/shadow-wiki/crew/crew_artificer_c1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Garr, the Steward",
+    "url": "/shadow-wiki/crew/crew_warden_c3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Hale, the Bracehand",
+    "url": "/shadow-wiki/crew/crew_warden_c1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Hark, the Coilwright",
+    "url": "/shadow-wiki/crew/crew_voidseer_u2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Iris, the Medic",
+    "url": "/shadow-wiki/crew/crew_warden_c2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Kaethe, the Riftcleaver",
+    "url": "/shadow-wiki/crew/sig_kaethe/",
+    "cat": "crew"
+  },
+  {
+    "title": "Korr, the Breachling",
+    "url": "/shadow-wiki/crew/sig_korr/",
+    "cat": "crew"
+  },
+  {
+    "title": "Lira, the Marksman",
+    "url": "/shadow-wiki/crew/crew_artificer_u3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Lux, Firstlight Founder",
+    "url": "/shadow-wiki/crew/ev8_founder_lux/",
+    "cat": "crew"
+  },
+  {
+    "title": "Lux, the Voidcartographer",
+    "url": "/shadow-wiki/crew/sig_lux/",
+    "cat": "crew"
+  },
+  {
+    "title": "Mara, the Wardline",
+    "url": "/shadow-wiki/crew/sig_mara/",
+    "cat": "crew"
+  },
+  {
+    "title": "Morrow, the Breach-Hymn",
+    "url": "/shadow-wiki/crew/sig_morrow/",
+    "cat": "crew"
+  },
+  {
+    "title": "Nim, the Stoker",
+    "url": "/shadow-wiki/crew/crew_voidseer_c1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Nyx, the Singularity-Touched",
+    "url": "/shadow-wiki/crew/sig_nyx/",
+    "cat": "crew"
+  },
+  {
+    "title": "Onyx, the Boarder",
+    "url": "/shadow-wiki/crew/crew_reaver_u3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Orin, the Aegis Eternal",
+    "url": "/shadow-wiki/crew/sig_orin/",
+    "cat": "crew"
+  },
+  {
+    "title": "Oru, the Gauge-Reader",
+    "url": "/shadow-wiki/crew/crew_voidseer_c2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Paragon, the Brand",
+    "url": "/shadow-wiki/crew/ev_vigil_paragon/",
+    "cat": "crew"
+  },
+  {
+    "title": "Pell, the Sensor-Adept",
+    "url": "/shadow-wiki/crew/sig_pell/",
+    "cat": "crew"
+  },
+  {
+    "title": "Pyke, the Powderhand",
+    "url": "/shadow-wiki/crew/crew_reaver_u2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Quill, the Signalwright",
+    "url": "/shadow-wiki/crew/sig_quill/",
+    "cat": "crew"
+  },
+  {
+    "title": "Redline, the Recall",
+    "url": "/shadow-wiki/crew/ev_vigil_redline/",
+    "cat": "crew"
+  },
+  {
+    "title": "Rho, the Spotter",
+    "url": "/shadow-wiki/crew/crew_artificer_c3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Riven, the Redwake",
+    "url": "/shadow-wiki/crew/sig_riven/",
+    "cat": "crew"
+  },
+  {
+    "title": "Sable, the Drift-Pilot",
+    "url": "/shadow-wiki/crew/sig_sable/",
+    "cat": "crew"
+  },
+  {
+    "title": "Sarn, the Boarding-Ghost",
+    "url": "/shadow-wiki/crew/ev_echo_sarn/",
+    "cat": "crew"
+  },
+  {
+    "title": "Sela, the Greenblade",
+    "url": "/shadow-wiki/crew/crew_reaver_c2/",
+    "cat": "crew"
+  },
+  {
+    "title": "Senna, the Linekeeper",
+    "url": "/shadow-wiki/crew/crew_warden_u1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Slag, the Cinder-Wall",
+    "url": "/shadow-wiki/crew/ev_cinder_slag/",
+    "cat": "crew"
+  },
+  {
+    "title": "Solenne, the Wakereader",
+    "url": "/shadow-wiki/crew/crew_voidseer_u1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Tace, the Drift-Hand",
+    "url": "/shadow-wiki/crew/crew_voidseer_c3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Tamsin, the Starforger",
+    "url": "/shadow-wiki/crew/sig_tamsin/",
+    "cat": "crew"
+  },
+  {
+    "title": "Thane, the Shieldbearer",
+    "url": "/shadow-wiki/crew/sig_thane/",
+    "cat": "crew"
+  },
+  {
+    "title": "Threnody, the Last Broadcast",
+    "url": "/shadow-wiki/crew/ev_echo_threnody/",
+    "cat": "crew"
+  },
+  {
+    "title": "Tomas, the Hooksman",
+    "url": "/shadow-wiki/crew/crew_reaver_c3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Umbra, the Event Horizon",
+    "url": "/shadow-wiki/crew/sig_umbra/",
+    "cat": "crew"
+  },
+  {
+    "title": "Vael, the Surveyor",
+    "url": "/shadow-wiki/crew/crew_artificer_u1/",
+    "cat": "crew"
+  },
+  {
+    "title": "Vale, the Signal-Keeper",
+    "url": "/shadow-wiki/crew/ev_echo_vale/",
+    "cat": "crew"
+  },
+  {
+    "title": "Vance, the Hullsplitter",
+    "url": "/shadow-wiki/crew/sig_vance/",
+    "cat": "crew"
+  },
+  {
+    "title": "Vesh, the Driftling",
+    "url": "/shadow-wiki/crew/sig_vesh/",
+    "cat": "crew"
+  },
+  {
+    "title": "Vexa, the Oracle-Engine",
+    "url": "/shadow-wiki/crew/sig_vexa/",
+    "cat": "crew"
+  },
+  {
+    "title": "Wren, the Quartermaster",
+    "url": "/shadow-wiki/crew/crew_warden_u3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Yara, the Bracekeeper",
+    "url": "/shadow-wiki/crew/sig_yara/",
+    "cat": "crew"
+  },
+  {
+    "title": "Zef, the Slipside",
+    "url": "/shadow-wiki/crew/crew_voidseer_u3/",
+    "cat": "crew"
+  },
+  {
+    "title": "Bastion Cruiser",
+    "url": "/shadow-wiki/hulls/#hull_cruiser_bastion",
+    "cat": "hull"
+  },
+  {
+    "title": "Hulls",
+    "url": "/shadow-wiki/hulls/",
+    "cat": "hull"
+  },
+  {
+    "title": "Line Capital",
+    "url": "/shadow-wiki/hulls/#hull_capital",
+    "cat": "hull"
+  },
+  {
+    "title": "Patrol Cruiser",
+    "url": "/shadow-wiki/hulls/#hull_cruiser",
+    "cat": "hull"
+  },
+  {
+    "title": "Scout Frigate",
+    "url": "/shadow-wiki/hulls/#hull_frigate",
+    "cat": "hull"
+  },
+  {
+    "title": "Siege Dreadnought",
+    "url": "/shadow-wiki/hulls/#hull_dreadnought",
+    "cat": "hull"
+  },
+  {
+    "title": "Sovereign Worldbreaker",
+    "url": "/shadow-wiki/hulls/#hull_worldbreaker_sovereign",
+    "cat": "hull"
+  },
+  {
+    "title": "Striker Frigate",
+    "url": "/shadow-wiki/hulls/#hull_frigate_striker",
+    "cat": "hull"
+  },
+  {
+    "title": "Worldbreaker",
+    "url": "/shadow-wiki/hulls/#hull_worldbreaker",
+    "cat": "hull"
+  },
+  {
+    "title": "Lore",
+    "url": "/shadow-wiki/lore/",
+    "cat": "lore"
+  },
+  {
+    "title": "Beltglass",
+    "url": "/shadow-wiki/materials/#beltglass",
+    "cat": "material"
+  },
+  {
+    "title": "Emberscale",
+    "url": "/shadow-wiki/materials/#emberscale",
+    "cat": "material"
+  },
+  {
+    "title": "Materials",
+    "url": "/shadow-wiki/materials/",
+    "cat": "material"
+  },
+  {
+    "title": "Null Ember",
+    "url": "/shadow-wiki/materials/#nullember",
+    "cat": "material"
+  },
+  {
+    "title": "Sepulchre Ash",
+    "url": "/shadow-wiki/materials/#sepash",
+    "cat": "material"
+  },
+  {
+    "title": "Verdigris Bloom",
+    "url": "/shadow-wiki/materials/#verdbloom",
+    "cat": "material"
+  },
+  {
+    "title": "Voidpearl",
+    "url": "/shadow-wiki/materials/#voidpearl",
+    "cat": "material"
+  },
+  {
+    "title": "Shadow Wiki",
+    "url": "/shadow-wiki/",
+    "cat": "page"
+  },
+  {
+    "title": "Aethel Dock",
+    "url": "/shadow-wiki/galaxy/#belt",
+    "cat": "system"
+  },
+  {
+    "title": "Cinder Wake",
+    "url": "/shadow-wiki/galaxy/#cinder",
+    "cat": "system"
+  },
+  {
+    "title": "Devourer's Maw",
+    "url": "/shadow-wiki/galaxy/#maw",
+    "cat": "system"
+  },
+  {
+    "title": "Emberfall",
+    "url": "/shadow-wiki/galaxy/#rift",
+    "cat": "system"
+  },
+  {
+    "title": "Galaxy",
+    "url": "/shadow-wiki/galaxy/",
+    "cat": "system"
+  },
+  {
+    "title": "Genesis Wound",
+    "url": "/shadow-wiki/galaxy/#genesis",
+    "cat": "system"
+  },
+  {
+    "title": "Mistveil",
+    "url": "/shadow-wiki/galaxy/#nebula",
+    "cat": "system"
+  },
+  {
+    "title": "Mourner's Wake",
+    "url": "/shadow-wiki/galaxy/#sepulchre",
+    "cat": "system"
+  },
+  {
+    "title": "Requiem",
+    "url": "/shadow-wiki/galaxy/#derelict",
+    "cat": "system"
+  },
+  {
+    "title": "Shattered Throne",
+    "url": "/shadow-wiki/galaxy/#throne",
+    "cat": "system"
+  },
+  {
+    "title": "The Crypt Throne",
+    "url": "/shadow-wiki/galaxy/#cryptthrone",
+    "cat": "system"
+  },
+  {
+    "title": "The Hollow Choir",
+    "url": "/shadow-wiki/galaxy/#hollow",
+    "cat": "system"
+  },
+  {
+    "title": "The Last Ash",
+    "url": "/shadow-wiki/galaxy/#nullverge",
+    "cat": "system"
+  },
+  {
+    "title": "The Last Lantern",
+    "url": "/shadow-wiki/galaxy/#lantern",
+    "cat": "system"
+  },
+  {
+    "title": "The Pale Reach",
+    "url": "/shadow-wiki/galaxy/#pale",
+    "cat": "system"
+  },
+  {
+    "title": "The Unmaking",
+    "url": "/shadow-wiki/galaxy/#unmaking",
+    "cat": "system"
+  },
+  {
+    "title": "Umbral Verge",
+    "url": "/shadow-wiki/galaxy/#umbra",
+    "cat": "system"
+  },
+  {
+    "title": "Verdigris Sprawl",
+    "url": "/shadow-wiki/galaxy/#verdigris",
+    "cat": "system"
+  }
+]
